@@ -52,5 +52,5 @@ Currently, I am improving my skills in:
 
 ## 📫 Contact
 
-- LinkedIn: <PRIVATE_URL>
+- [LinkedIn](https://www.linkedin.com/in/leonardogsmacedo/)
 - Email: leonardogsmacedo@gmail.com
