@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there 👋 I'm Leonardo Macedo
 
-<!--
-**leogmacedo/leogmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🩻 Radiologic Technologist  
+☢️ MSc Candidate in Radiation Science & Technology  
+💻 Software Developer in training  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+My research and professional interests are focused on **computational internal dosimetry**, especially in:
+
+- Pre-clinical studies
+- Nuclear medicine
+- Computational modeling
+- Medical image processing
+- Software development for dosimetry automation
+
+I work with the development of **voxel computational phantoms** based on:
+
+- Magnetic Resonance Imaging (MRI)
+- Computed Tomography (CT)
+
+Currently, I am improving my skills in:
+
+- Artificial Intelligence for automatic segmentation
+- Medical imaging applications
+- Scientific computing
+- Automation tools for internal dosimetry workflows
+
+---
+
+## 🛠️ Languages & Technologies
+
+- Python
+- C++
+- Java
+- Git & GitHub
+
+---
+
+## 📚 Current Interests
+
+- Computational Dosimetry
+- Nuclear Medicine
+- Artificial Intelligence
+- Medical Image Segmentation
+- Scientific Software Development
+- Computational Phantoms
+
+---
+
+## 📫 Contact
+
+- LinkedIn: <PRIVATE_URL>
+- Email: leonardogsmacedo@gmail.com
